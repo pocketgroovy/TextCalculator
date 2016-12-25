@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoshiMiyamoto", "YoshiMiyamoto\YoshiMiyamoto.csproj", "{3FE43121-3B2C-4597-93C7-23C66A8B19E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoshiMiyamotoTests", "YoshiMiyamotoTests\YoshiMiyamotoTests.csproj", "{35736C74-0F0A-4D76-B1F6-83401797CA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE43121-3B2C-4597-93C7-23C66A8B19E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE43121-3B2C-4597-93C7-23C66A8B19E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE43121-3B2C-4597-93C7-23C66A8B19E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE43121-3B2C-4597-93C7-23C66A8B19E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35736C74-0F0A-4D76-B1F6-83401797CA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35736C74-0F0A-4D76-B1F6-83401797CA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35736C74-0F0A-4D76-B1F6-83401797CA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35736C74-0F0A-4D76-B1F6-83401797CA68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

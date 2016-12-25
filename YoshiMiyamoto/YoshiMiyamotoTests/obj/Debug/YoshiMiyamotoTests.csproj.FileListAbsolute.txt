@@ -1,0 +1,11 @@
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\ThermoDB.mdf
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\ThermoDB_log.ldf
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\YoshiMiyamotoTests.dll
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\YoshiMiyamotoTests.pdb
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\YoshiMiyamoto.exe
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\eMailSender.dll
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\bin\Debug\YoshiMiyamoto.pdb
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\obj\Debug\YoshiMiyamotoTests.csprojResolveAssemblyReference.cache
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\obj\Debug\YoshiMiyamotoTests.dll
+C:\Users\yoshi_000\TextCalculator\YoshiMiyamoto\YoshiMiyamotoTests\obj\Debug\YoshiMiyamotoTests.pdb
