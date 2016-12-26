@@ -1,4 +1,5 @@
-# TextCalculato
+# TextCalculator
+	This is created on Visual Studio C#
 
 	This program let you use text file to do 4 different calculations.
 	The format: All elements have to be separated by ";" the last element must be one of these operations.
